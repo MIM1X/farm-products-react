@@ -1,0 +1,14 @@
+.title {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 115%;
+  margin: 0;
+}
+
+.title--small {
+  font-size: 18px;
+}
+
+.title--big {
+  font-size: 44px;
+}
